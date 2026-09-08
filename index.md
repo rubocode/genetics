@@ -1,4 +1,4 @@
-> [home](/systems)
+> [home](/philosophy)
 > &bull; Work in progress...
 
 ![banner](/genetics/photos/banner.png)
